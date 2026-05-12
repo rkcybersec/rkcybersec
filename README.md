@@ -53,6 +53,4 @@ A complaint management system for educational institutions.
 
 💼 LinkedIn:
 https://linkedin.com/in/ramakrishnaenjapuri
-
-🌐 GitHub:
-https://github.com/rkcybersec
+ 
