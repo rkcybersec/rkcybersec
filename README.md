@@ -162,27 +162,28 @@ A movie-based data project inspired by Netflix that explores movie insights and 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkcybersec&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkcybersec&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkcybersec&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rkcybersec&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rkcybersec&theme=github_dark" />
+</p>
 ---
 
 # 🤝 Connect With Me
 
 📧 **Email:** ramakrishna59585@gmail.com  
 
-💼 **LinkedIn:**  
-https://linkedin.com/in/ramakrishnaenjapuri
+💼 **LinkedIn:**  https://linkedin.com/in/ramakrishnaenjapuri
 
-🐙 **GitHub:**  
-https://github.com/rkcybersec
+🐙 **GitHub:**  https://github.com/rkcybersec
 
 ---
 
